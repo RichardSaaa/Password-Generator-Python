@@ -1,1 +1,3 @@
-# Password-Generator-Python
+# Password-Generator-Python 🐍🔐
+
+Password generator made in Python
